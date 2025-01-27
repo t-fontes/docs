@@ -51,9 +51,8 @@
   "navigation": [
     {
       "group": "Get Started",
-      "pages"
-      "prt"[
-        "pt/introduction",
+      "pages":[
+        "introduction",
         "quickstart",
         "development"
       ]
