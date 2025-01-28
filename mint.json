@@ -43,17 +43,17 @@
   },
   "tabs": [
     {
-      "name": "Api Reference",
+      "name": "API Documentation",
       "version": "English",
       "url": "en/api-reference"
     },
     {
-      "name": "Api Reference",
+      "name": "API Documentacione",
       "version": "Español",
       "url": "es/api-reference"
     },
     {
-      "name": "Api Reference",
+      "name": "API Documentação",
       "version": "Português",
       "url": "pt/api-reference"
     }
@@ -161,7 +161,7 @@
       ]
     },
     {
-      "group": "API Documentacion",
+      "group": "API Documentacione",
       "version": "Español",
       "pages": [
         "es/api-reference/introduction"
@@ -178,9 +178,9 @@
       "group": "Endpoint Examples",
       "version": "English",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
+        "en/api-reference/endpoint/get",
+        "en/api-reference/endpoint/create",
+        "en/api-reference/endpoint/delete"
       ]
     },
     {
