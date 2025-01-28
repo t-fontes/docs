@@ -43,16 +43,19 @@
   },
   "tabs": [
     {
-      "name": "Cloud PMS",
-      "url": "api-reference"
+      "name": "Api Reference",
+      "version": "English",
+      "url": "en/api-reference"
     },
     {
-      "name": "Cloud POS",
-      "url": "api-reference"
+      "name": "Api Reference",
+      "version": "Español",
+      "url": "es/api-reference"
     },
     {
-      "name": "Cloud SPA",
-      "url": "api-reference"
+      "name": "Api Reference",
+      "version": "Português",
+      "url": "pt/api-reference"
     }
   ],
   "anchors": [
@@ -152,16 +155,50 @@
     },
     {
       "group": "API Documentation",
+      "version": "English",
       "pages": [
-        "api-reference/introduction"
+        "en/api-reference/introduction"
+      ]
+    },
+    {
+      "group": "API Documentacion",
+      "version": "Español",
+      "pages": [
+        "es/api-reference/introduction"
+      ]
+    },
+    {
+      "group": "API Documentação",
+      "version": "Português",
+      "pages": [
+        "pt/api-reference/introduction"
       ]
     },
     {
       "group": "Endpoint Examples",
+      "version": "English",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
+      ]
+    },
+    {
+      "group": "Endpoint Examples",
+      "version": "Español",
+      "pages": [
+        "es/api-reference/endpoint/get",
+        "es/api-reference/endpoint/create",
+        "es/api-reference/endpoint/delete"
+      ]
+    },
+    {
+      "group": "Endpoint Examples",
+      "version": "Português",
+      "pages": [
+        "pt/api-reference/endpoint/get",
+        "pt/api-reference/endpoint/create",
+        "pt/api-reference/endpoint/delete"
       ]
     }
   ],
