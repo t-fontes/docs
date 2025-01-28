@@ -66,6 +66,26 @@
       "url": "https://mintlify.com/blog"
     }
   ],
+  "anchors": [
+    {
+      "name": "Documentatione",
+      "version": "Español",
+      "icon": "book-open-cover",
+      "url": "https://mintlify.com/docs"
+    },
+    {
+      "name": "Communidade",
+      "version": "Español",
+      "icon": "slack",
+      "url": "https://mintlify.com/community"
+    },
+    {
+      "name": "Blog",
+      "version": "Español",
+      "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
+    }
+  ],
   "navigation": [
     {
       "group": "Get Started",
