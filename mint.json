@@ -1,18 +1,19 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
+  "theme": "quill",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#800080",
+    "light": "#efbbff",
+    "dark": "#be29ec",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#be29ec",
+      "to": "#efbbff"
     }
   },
   "versions": [
@@ -60,14 +61,44 @@
       "url": "https://mintlify.com/docs"
     },
     {
+      "name": "Documentação",
+      "version": "Portuguese",
+      "icon": "book-open-cover",
+      "url": "https://mintlify.com/docs"
+    },
+    {
       "name": "Community",
       "version": "English",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
+      "name": "Comunidad",
+      "version": "Español",
+      "icon": "slack",
+      "url": "https://mintlify.com/community"
+    },
+    {
+      "name": "Comunidade",
+      "version": "Portuguese",
+      "icon": "slack",
+      "url": "https://mintlify.com/community"
+    },
+    {
       "name": "Blog",
       "version": "English",
+      "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
+    },
+    {
+      "name": "Blog",
+      "version": "Español",
+      "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
+    },
+    {
+      "name": "Blog",
+      "version": "Portuguese",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
