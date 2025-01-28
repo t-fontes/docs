@@ -49,19 +49,58 @@
   "anchors": [
     {
       "name": "Documentation",
+      "version": "English",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
       "name": "Community",
+      "version": "English",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
       "name": "Blog",
+      "version": "English",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
+/*     {
+      "name": "Documentacion",
+      "version": "Español",
+      "icon": "book-open-cover",
+      "url": "https://mintlify.com/docs"
+    },
+    {
+      "name": "Communidad",
+      "version": "Español",
+      "icon": "slack",
+      "url": "https://mintlify.com/community"
+    },
+    {
+      "name": "Blog",
+      "version": "Español",
+      "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
+    },
+    {
+      "name": "Documentacion",
+      "version": "Portuguese",
+      "icon": "book-open-cover",
+      "url": "https://mintlify.com/docs"
+    },
+    {
+      "name": "Communidad",
+      "version": "Portuguese",
+      "icon": "slack",
+      "url": "https://mintlify.com/community"
+    },
+    {
+      "name": "Blog",
+      "version": "Portuguese",
+      "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
+    } */
   ],
   "navigation": [
     {
@@ -69,26 +108,26 @@
       "version": "English",
       "pages":[
         "en/introduction",
-        "quickstart",
-        "development"
+        "en/quickstart",
+        "en/development"
       ]
     },
     {
       "group": "Get Started",
       "version": "Español",
       "pages":[
-        "introduction",
-        "quickstart",
-        "development"
+        "es/introduction",
+        "es/quickstart",
+        "es/development"
       ]
     },
     {
       "group": "Get Started",
       "version": "Portuguese",
       "pages":[
-        "introduction",
-        "quickstart",
-        "development"
+        "pt/introduction",
+        "pt/quickstart",
+        "pt/development"
       ]
     },
     {
