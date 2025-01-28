@@ -9,7 +9,7 @@
   "favicon": "/images/favicon.svg",
   "colors": {
     "primary": "#800080",
-    "light": "#efbbff",
+    "light": "#be29ec",
     "dark": "#000000",
     "anchors": {
       "from": "#be29ec",
@@ -43,7 +43,15 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "Cloud PMS",
+      "url": "api-reference"
+    },
+    {
+      "name": "Cloud POS",
+      "url": "api-reference"
+    },
+    {
+      "name": "Cloud SPA",
       "url": "api-reference"
     }
   ],
