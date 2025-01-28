@@ -65,42 +65,6 @@
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
-/*     {
-      "name": "Documentacion",
-      "version": "Español",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Communidad",
-      "version": "Español",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "version": "Español",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    },
-    {
-      "name": "Documentacion",
-      "version": "Portuguese",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Communidad",
-      "version": "Portuguese",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "version": "Portuguese",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    } */
   ],
   "navigation": [
     {
