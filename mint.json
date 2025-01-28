@@ -22,7 +22,7 @@
       "locale": "en"
     },
     {
-      "name": "Portuguese",
+      "name": "Português",
       "locale": "pt"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "name": "Documentação",
-      "version": "Portuguese",
+      "version": "Português",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
@@ -80,7 +80,7 @@
     },
     {
       "name": "Comunidade",
-      "version": "Portuguese",
+      "version": "Português",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
@@ -98,7 +98,7 @@
     },
     {
       "name": "Blog",
-      "version": "Portuguese",
+      "version": "Português",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
@@ -124,7 +124,7 @@
     },
     {
       "group": "Comece aqui",
-      "version": "Portuguese",
+      "version": "Português",
       "pages":[
         "pt/introduction",
         "pt/quickstart",
