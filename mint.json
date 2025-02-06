@@ -135,7 +135,7 @@
         "en/cloudpms/reservation_history",
         "en/cloudpms/new_reservation",
         "en/cloudpms/groups_manager",
-        "en/cloudpms/avilability"
+        "en/cloudpms/availability"
       ]
     },
     {
@@ -146,7 +146,7 @@
         "es/cloudpms/reservation_history",
         "es/cloudpms/new_reservation",
         "es/cloudpms/groups_manager",
-        "es/cloudpms/avilability"
+        "es/cloudpms/availability"
       ]
     },
     {
@@ -157,7 +157,7 @@
         "pt/cloudpms/reservation_history",
         "pt/cloudpms/new_reservation",
         "pt/cloudpms/groups_manager",
-        "pt/cloudpms/avilability"
+        "pt/cloudpms/availability"
       ]
     },
     {
