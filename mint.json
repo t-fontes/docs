@@ -131,21 +131,33 @@
       "group": "Reservations",
       "version": "English",
       "pages": [
-        "en/cloudpms/booking_manager"
+        "en/cloudpms/booking_manager",
+        "en/cloudpms/reservation_history",
+        "en/cloudpms/new_reservation",
+        "en/cloudpms/groups_manager",
+        "en/cloudpms/avilability"
       ]
     },
     {
       "group": "Reservas",
       "version": "Español",
       "pages": [
-        "es/cloudpms/Snapshot"
+        "es/cloudpms/booking_manager",
+        "es/cloudpms/reservation_history",
+        "es/cloudpms/new_reservation",
+        "es/cloudpms/groups_manager",
+        "es/cloudpms/avilability"
       ]
     },
     {
       "group": "Reservas",
       "version": "Português",
       "pages": [
-        "pt/cloudpms/Snapshot"
+        "pt/cloudpms/booking_manager",
+        "pt/cloudpms/reservation_history",
+        "pt/cloudpms/new_reservation",
+        "pt/cloudpms/groups_manager",
+        "pt/cloudpms/avilability"
       ]
     },
     {
