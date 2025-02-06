@@ -143,14 +143,24 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Cloud PMS",
+      "version": "English",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "en/cloudpms/snapshot"
+      ]
+    },
+    {
+      "group": "Cloud PMS",
+      "version": "Español",
+      "pages": [
+        "es/cloudpms/snapshot"
+      ]
+    },
+    {
+      "group": "Cloud PMS",
+      "version": "Português",
+      "pages": [
+        "pt/cloudpms/snapshot"
       ]
     },
     {
