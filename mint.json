@@ -60,22 +60,22 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Cloud PMS",
       "version": "English",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "icon": "/images/ico/logo_pms.svg",
+      "url": "en/cloudpms/Snapshot"
     },
     {
-      "name": "Documentacion",
+      "name": "Cloud PMS",
       "version": "Español",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "icon": "/images/ico/logo_pms.svg",
+      "url": "en/cloudpms/Snapshot"
     },
     {
-      "name": "Documentação",
+      "name": "Cloud PMS",
       "version": "Português",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "icon": "/images/ico/logo_pms.svg",
+      "url": "en/cloudpms/Snapshot"
     },
     {
       "name": "Community",
@@ -158,6 +158,27 @@
     },
     {
       "group": "Cloud PMS",
+      "version": "Português",
+      "pages": [
+        "pt/cloudpms/Snapshot"
+      ]
+    },
+    {
+      "group": "Reservations",
+      "version": "English",
+      "pages": [
+        "en/cloudpms/booking_manager"
+      ]
+    },
+    {
+      "group": "Reservas",
+      "version": "Español",
+      "pages": [
+        "es/cloudpms/Snapshot"
+      ]
+    },
+    {
+      "group": "Reservas",
       "version": "Português",
       "pages": [
         "pt/cloudpms/Snapshot"
