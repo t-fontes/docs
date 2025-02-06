@@ -62,56 +62,20 @@
     {
       "name": "Cloud PMS",
       "version": "English",
-      "icon": "/images/ico/logo_pms.svg",
+      "icon": "images/ico/logo_pms.svg",
       "url": "en/cloudpms/Snapshot"
     },
     {
       "name": "Cloud PMS",
       "version": "Español",
-      "icon": "/images/ico/logo_pms.svg",
-      "url": "en/cloudpms/Snapshot"
+      "icon": "images/ico/logo_pos.svg",
+      "url": "es/cloudpms/Snapshot"
     },
     {
       "name": "Cloud PMS",
       "version": "Português",
-      "icon": "/images/ico/logo_pms.svg",
-      "url": "en/cloudpms/Snapshot"
-    },
-    {
-      "name": "Community",
-      "version": "English",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Comunidad",
-      "version": "Español",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Comunidade",
-      "version": "Português",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "version": "English",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    },
-    {
-      "name": "Blog",
-      "version": "Español",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    },
-    {
-      "name": "Blog",
-      "version": "Português",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "icon": "images/ico/logo_event.png",
+      "url": "pt/cloudpms/"
     }
   ],
   "navigation": [
